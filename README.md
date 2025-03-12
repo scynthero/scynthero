@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=scynthero&show_icons=true&rank_icon=percentile&theme=dracula&hide=stars&show=reviews)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scynthero&layout=compact&theme=dracula&size_weight=0.5&count_weight=0.5)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scynthero&layout=compact&theme=dracula&size_weight=0.5&count_weight=0.5&langs_count=8)
